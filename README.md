@@ -2,7 +2,6 @@
 I'm Juan Sebastián. I'm passionate about creating great experiences through the software ✨. 
 * Let's visit my [Website](https://juan-gonzalez.netlify.app) 👁
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/juansebastiangonzalezm/) 💼
-* Let's connect on [Twitter](https://twitter.com/juancho_11gm) 🐦
 
 **Additional Resources**
 
